@@ -1,4 +1,4 @@
-handybars
+Handybars
 =========
 
-Handy handlebars helpers
+A place to store handy, project-agnostic handlebars helpers. 
